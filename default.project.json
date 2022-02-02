@@ -1,0 +1,13 @@
+{
+  "name": "uistrokescaler-plugin",
+  "tree": {
+    "$className": "DataModel",
+    "$ignoreUnknownInstances": true,
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src",
+      "$ignoreUnknownInstances": true
+    }
+  }
+}
